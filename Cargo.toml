@@ -1,0 +1,8 @@
+[package]
+name = "budget"
+version = "0.1.0"
+authors = ["stuart"]
+
+[dependencies]
+clap = "2"
+time = "0.1"
